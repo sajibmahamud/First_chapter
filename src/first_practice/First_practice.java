@@ -19,6 +19,8 @@ public class First_practice {
         System.out.println("welcome to java");
         System.out.println("welcome to computer science");
         System.out.println("programming is fun ");
+        
+        System.out.println("Eidted");
         First_practice a=new First_practice();
         a.display();
         a.designe();
